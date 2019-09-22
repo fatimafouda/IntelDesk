@@ -6,4 +6,6 @@ Prepared by:
 
 Supervised by:
 Noha Younis
- 
+
+[Flowchart](IntelDesk/assets/Flowchart.png)
+
