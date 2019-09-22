@@ -8,5 +8,7 @@ Supervised by:
 Noha Younis
 
 ![Flowchart](https://github.com/fatimafouda/IntelDesk/blob/assets/assets/Flowchart.png raw=true "Title")
+![Alt text](IntelDesk/assets/Flowchart.png?raw=true "Title")
+
 
 
