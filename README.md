@@ -7,5 +7,6 @@ Prepared by:
 Supervised by:
 Noha Younis
 
-[Flowchart](IntelDesk/assets/Flowchart.png)
+[Flowchart](IntelDesk/assets/Flowchart.png raw=true "Title")
+
 
